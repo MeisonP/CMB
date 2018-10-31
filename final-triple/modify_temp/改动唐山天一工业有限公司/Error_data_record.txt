@@ -1,0 +1,4 @@
+2018-02-06 11:25:18	Raw data available: 256	Error: 0
+2018-02-06 11:26:08	cust_id: 31590002961	rep_id: 1
+2018-02-06 11:26:08	cust_id: 3159000296	rep_id: 0
+2018-02-06 11:26:08	Raw data available: 254	Error: 2

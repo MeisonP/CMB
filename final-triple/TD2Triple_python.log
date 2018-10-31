@@ -1,0 +1,239 @@
+2018-02-06 11:25:18,999 - INFO - <ipython-input-1-766df7e734a7>[:137]- Table is ready for calculation
+2018-02-06 11:25:19,052 - INFO - <ipython-input-1-766df7e734a7>[:168]- Max priority selecting check done
+2018-02-06 11:25:19,053 - INFO - <ipython-input-1-766df7e734a7>[:173]- liabilities ratio calculating done
+2018-02-06 11:25:19,298 - INFO - <ipython-input-1-766df7e734a7>[:219]- industry creating done
+2018-02-06 11:25:19,775 - INFO - <ipython-input-1-766df7e734a7>[:255]- customer creating done
+2018-02-06 11:25:19,872 - INFO - <ipython-input-1-766df7e734a7>[:291]- financial report creating done
+2018-02-06 11:25:19,884 - INFO - <ipython-input-1-766df7e734a7>[:324]- financial subject creating done
+2018-02-06 11:25:20,209 - INFO - <ipython-input-1-766df7e734a7>[:335]- Total 4107 Triples
+2018-02-06 11:25:20,242 - INFO - <ipython-input-1-766df7e734a7>[:342]- output file... 
+End!
+2018-02-06 11:26:08,225 - ERROR - <ipython-input-2-bc729d00c0ec>[:73]- the No. 98 row "Cust_Id" info is incomplete
+2018-02-06 11:26:08,228 - ERROR - <ipython-input-2-bc729d00c0ec>[:73]- the No. 226 row "Cust_Id" info is incomplete
+2018-02-06 11:26:08,242 - INFO - <ipython-input-2-bc729d00c0ec>[:137]- Table is ready for calculation
+2018-02-06 11:26:08,287 - INFO - <ipython-input-2-bc729d00c0ec>[:168]- Max priority selecting check done
+2018-02-06 11:26:08,288 - INFO - <ipython-input-2-bc729d00c0ec>[:173]- liabilities ratio calculating done
+2018-02-06 11:26:08,520 - INFO - <ipython-input-2-bc729d00c0ec>[:219]- industry creating done
+2018-02-06 11:26:09,045 - INFO - <ipython-input-2-bc729d00c0ec>[:255]- customer creating done
+2018-02-06 11:26:09,161 - INFO - <ipython-input-2-bc729d00c0ec>[:291]- financial report creating done
+2018-02-06 11:26:09,174 - INFO - <ipython-input-2-bc729d00c0ec>[:324]- financial subject creating done
+2018-02-06 11:26:09,526 - INFO - <ipython-input-2-bc729d00c0ec>[:335]- Total 4086 Triples
+2018-02-06 11:26:09,563 - INFO - <ipython-input-2-bc729d00c0ec>[:342]- output file... 
+End!
+2018-02-06 11:30:01,747 - INFO - <ipython-input-3-4bfb42a5a458>[:137]- Table is ready for calculation
+2018-02-06 11:30:01,793 - INFO - <ipython-input-3-4bfb42a5a458>[:168]- Max priority selecting check done
+2018-02-06 11:30:01,794 - INFO - <ipython-input-3-4bfb42a5a458>[:173]- liabilities ratio calculating done
+2018-02-06 11:30:02,025 - INFO - <ipython-input-3-4bfb42a5a458>[:219]- industry creating done
+2018-02-06 11:30:02,526 - INFO - <ipython-input-3-4bfb42a5a458>[:255]- customer creating done
+2018-02-06 11:30:02,621 - INFO - <ipython-input-3-4bfb42a5a458>[:291]- financial report creating done
+2018-02-06 11:30:02,634 - INFO - <ipython-input-3-4bfb42a5a458>[:324]- financial subject creating done
+2018-02-06 11:30:02,940 - INFO - <ipython-input-3-4bfb42a5a458>[:335]- Total 4107 Triples
+2018-02-06 11:30:02,970 - INFO - <ipython-input-3-4bfb42a5a458>[:342]- output file... 
+End!
+2018-02-06 11:36:40,328 - INFO - <ipython-input-4-83b969e4f5c9>[:137]- Table is ready for calculation
+2018-02-06 11:36:40,374 - INFO - <ipython-input-4-83b969e4f5c9>[:168]- Max priority selecting check done
+2018-02-06 11:36:40,375 - INFO - <ipython-input-4-83b969e4f5c9>[:173]- liabilities ratio calculating done
+2018-02-06 11:36:40,605 - INFO - <ipython-input-4-83b969e4f5c9>[:219]- industry creating done
+2018-02-06 11:36:41,123 - INFO - <ipython-input-4-83b969e4f5c9>[:255]- customer creating done
+2018-02-06 11:36:41,237 - INFO - <ipython-input-4-83b969e4f5c9>[:291]- financial report creating done
+2018-02-06 11:36:41,251 - INFO - <ipython-input-4-83b969e4f5c9>[:324]- financial subject creating done
+2018-02-06 11:36:41,549 - INFO - <ipython-input-4-83b969e4f5c9>[:335]- Total 4107 Triples
+2018-02-06 11:36:41,604 - INFO - <ipython-input-4-83b969e4f5c9>[:342]- output file... 
+End!
+2018-02-06 11:37:02,932 - INFO - <ipython-input-5-19d8c22709fd>[:137]- Table is ready for calculation
+2018-02-06 11:37:02,977 - INFO - <ipython-input-5-19d8c22709fd>[:168]- Max priority selecting check done
+2018-02-06 11:37:02,977 - INFO - <ipython-input-5-19d8c22709fd>[:173]- liabilities ratio calculating done
+2018-02-06 11:37:03,219 - INFO - <ipython-input-5-19d8c22709fd>[:219]- industry creating done
+2018-02-06 11:37:03,737 - INFO - <ipython-input-5-19d8c22709fd>[:255]- customer creating done
+2018-02-06 11:37:03,894 - INFO - <ipython-input-5-19d8c22709fd>[:291]- financial report creating done
+2018-02-06 11:37:03,919 - INFO - <ipython-input-5-19d8c22709fd>[:324]- financial subject creating done
+2018-02-06 11:37:04,263 - INFO - <ipython-input-5-19d8c22709fd>[:335]- Total 4107 Triples
+2018-02-06 11:37:04,294 - INFO - <ipython-input-5-19d8c22709fd>[:342]- output file... 
+End!
+2018-02-06 11:38:40,379 - INFO - <ipython-input-6-158744dfb48b>[:139]- Table is ready for calculation
+2018-02-06 11:38:40,427 - INFO - <ipython-input-6-158744dfb48b>[:170]- Max priority selecting check done
+2018-02-06 11:38:40,428 - INFO - <ipython-input-6-158744dfb48b>[:175]- liabilities ratio calculating done
+2018-02-06 11:38:40,741 - INFO - <ipython-input-6-158744dfb48b>[:221]- industry creating done
+2018-02-06 11:38:41,283 - INFO - <ipython-input-6-158744dfb48b>[:257]- customer creating done
+2018-02-06 11:38:41,383 - INFO - <ipython-input-6-158744dfb48b>[:293]- financial report creating done
+2018-02-06 11:38:41,398 - INFO - <ipython-input-6-158744dfb48b>[:326]- financial subject creating done
+2018-02-06 11:38:41,793 - INFO - <ipython-input-6-158744dfb48b>[:337]- Total 4107 Triples
+2018-02-06 11:38:41,826 - INFO - <ipython-input-6-158744dfb48b>[:344]- output file... 
+End!
+2018-02-06 12:08:34,772 - ERROR - <ipython-input-15-53450c11dedb>[:118]- drop, please check the row 0
+2018-02-06 12:09:16,210 - ERROR - <ipython-input-16-080a34d56114>[:118]- drop, please check the row 0
+2018-02-06 12:10:25,330 - ERROR - <ipython-input-17-98ade547eb5f>[:118]- drop, please check the row 0
+2018-02-06 12:11:30,755 - ERROR - <ipython-input-18-5ef59d882d56>[:118]- drop, please check the row 0
+2018-02-06 12:13:31,579 - ERROR - <ipython-input-20-6201bc1d7100>[:119]- drop, please check the row 0
+2018-02-06 12:21:32,196 - INFO - <ipython-input-21-9918e13fd9cb>[:146]- Table is ready for calculation
+2018-02-06 12:21:32,241 - INFO - <ipython-input-21-9918e13fd9cb>[:177]- Max priority selecting check done
+2018-02-06 12:21:32,242 - INFO - <ipython-input-21-9918e13fd9cb>[:182]- liabilities ratio calculating done
+2018-02-06 12:21:32,484 - INFO - <ipython-input-21-9918e13fd9cb>[:228]- industry creating done
+2018-02-06 12:21:33,038 - INFO - <ipython-input-21-9918e13fd9cb>[:264]- customer creating done
+2018-02-06 12:21:33,162 - INFO - <ipython-input-21-9918e13fd9cb>[:300]- financial report creating done
+2018-02-06 12:21:33,177 - INFO - <ipython-input-21-9918e13fd9cb>[:333]- financial subject creating done
+2018-02-06 12:21:33,477 - INFO - <ipython-input-21-9918e13fd9cb>[:344]- Total 4107 Triples
+2018-02-06 12:21:33,510 - INFO - <ipython-input-21-9918e13fd9cb>[:351]- output file... 
+End!
+2018-02-06 12:30:11,818 - INFO - <ipython-input-23-5371d5c83804>[:147]- Table is ready for calculation
+2018-02-06 12:30:11,866 - INFO - <ipython-input-23-5371d5c83804>[:179]- Max priority selecting check done
+2018-02-06 12:30:11,867 - INFO - <ipython-input-23-5371d5c83804>[:184]- liabilities ratio calculating done
+2018-02-06 12:30:12,133 - INFO - <ipython-input-23-5371d5c83804>[:230]- industry creating done
+2018-02-06 12:30:12,664 - INFO - <ipython-input-23-5371d5c83804>[:266]- customer creating done
+2018-02-06 12:30:12,758 - INFO - <ipython-input-23-5371d5c83804>[:302]- financial report creating done
+2018-02-06 12:30:12,772 - INFO - <ipython-input-23-5371d5c83804>[:335]- financial subject creating done
+2018-02-06 12:30:13,064 - INFO - <ipython-input-23-5371d5c83804>[:346]- Total 4107 Triples
+2018-02-06 12:30:13,096 - INFO - <ipython-input-23-5371d5c83804>[:353]- output file... 
+End!
+2018-02-06 12:31:44,703 - ERROR - <ipython-input-24-36918274f779>[:75]- Raw data row No. 98 , "Cust_Id" info is incomplete
+2018-02-06 12:31:44,706 - ERROR - <ipython-input-24-36918274f779>[:75]- Raw data row No. 226 , "Cust_Id" info is incomplete
+2018-02-06 12:31:44,719 - INFO - <ipython-input-24-36918274f779>[:147]- Table is ready for calculation
+2018-02-06 12:31:44,764 - INFO - <ipython-input-24-36918274f779>[:179]- Max priority selecting check done
+2018-02-06 12:31:44,765 - INFO - <ipython-input-24-36918274f779>[:184]- liabilities ratio calculating done
+2018-02-06 12:31:45,033 - INFO - <ipython-input-24-36918274f779>[:230]- industry creating done
+2018-02-06 12:31:45,585 - INFO - <ipython-input-24-36918274f779>[:266]- customer creating done
+2018-02-06 12:31:45,683 - INFO - <ipython-input-24-36918274f779>[:302]- financial report creating done
+2018-02-06 12:31:45,697 - INFO - <ipython-input-24-36918274f779>[:335]- financial subject creating done
+2018-02-06 12:31:45,993 - INFO - <ipython-input-24-36918274f779>[:346]- Total 4086 Triples
+2018-02-06 12:31:46,025 - INFO - <ipython-input-24-36918274f779>[:353]- output file... 
+End!
+2018-02-06 12:34:03,550 - ERROR - <ipython-input-25-243e99f07fc8>[:75]- Raw data row No. 98 , "Cust_Id" info is incomplete
+2018-02-06 12:34:03,553 - ERROR - <ipython-input-25-243e99f07fc8>[:75]- Raw data row No. 226 , "Cust_Id" info is incomplete
+2018-02-06 12:34:03,565 - INFO - <ipython-input-25-243e99f07fc8>[:147]- Table is ready for calculation
+2018-02-06 12:34:03,611 - INFO - <ipython-input-25-243e99f07fc8>[:179]- Max priority selecting check done
+2018-02-06 12:34:03,612 - INFO - <ipython-input-25-243e99f07fc8>[:184]- liabilities ratio calculating done
+2018-02-06 12:34:03,853 - INFO - <ipython-input-25-243e99f07fc8>[:230]- industry creating done
+2018-02-06 12:34:04,403 - INFO - <ipython-input-25-243e99f07fc8>[:266]- customer creating done
+2018-02-06 12:34:04,503 - INFO - <ipython-input-25-243e99f07fc8>[:302]- financial report creating done
+2018-02-06 12:34:04,516 - INFO - <ipython-input-25-243e99f07fc8>[:335]- financial subject creating done
+2018-02-06 12:34:04,844 - INFO - <ipython-input-25-243e99f07fc8>[:346]- Total 4086 Triples
+2018-02-06 12:34:04,886 - INFO - <ipython-input-25-243e99f07fc8>[:353]- output file... 
+End!
+2018-02-06 12:35:50,505 - ERROR - <ipython-input-26-7a4c7ab7e13d>[:75]- Raw data row No. 98 , "Cust_Id" info is incomplete
+2018-02-06 12:35:50,508 - ERROR - <ipython-input-26-7a4c7ab7e13d>[:75]- Raw data row No. 226 , "Cust_Id" info is incomplete
+2018-02-06 12:35:50,524 - INFO - <ipython-input-26-7a4c7ab7e13d>[:121]- Table is ready for calculation
+2018-02-06 12:35:50,579 - INFO - <ipython-input-26-7a4c7ab7e13d>[:153]- Max priority selecting check done
+2018-02-06 12:35:50,580 - INFO - <ipython-input-26-7a4c7ab7e13d>[:158]- liabilities ratio calculating done
+2018-02-06 12:35:50,852 - INFO - <ipython-input-26-7a4c7ab7e13d>[:204]- industry creating done
+2018-02-06 12:35:51,520 - INFO - <ipython-input-26-7a4c7ab7e13d>[:240]- customer creating done
+2018-02-06 12:35:51,619 - INFO - <ipython-input-26-7a4c7ab7e13d>[:276]- financial report creating done
+2018-02-06 12:35:51,633 - INFO - <ipython-input-26-7a4c7ab7e13d>[:309]- financial subject creating done
+2018-02-06 12:35:51,946 - INFO - <ipython-input-26-7a4c7ab7e13d>[:320]- Total 4086 Triples
+2018-02-06 12:35:51,979 - INFO - <ipython-input-26-7a4c7ab7e13d>[:327]- output file... 
+End!
+2018-02-06 12:37:35,912 - ERROR - <ipython-input-27-52667160933c>[:75]- Raw data row No. 98 , "Cust_Id" info is incomplete
+2018-02-06 12:37:35,914 - ERROR - <ipython-input-27-52667160933c>[:75]- Raw data row No. 226 , "Cust_Id" info is incomplete
+2018-02-06 12:37:35,927 - INFO - <ipython-input-27-52667160933c>[:121]- Table is ready for calculation
+2018-02-06 12:37:35,972 - INFO - <ipython-input-27-52667160933c>[:152]- Max priority selecting check done
+2018-02-06 12:37:35,973 - INFO - <ipython-input-27-52667160933c>[:157]- liabilities ratio calculating done
+2018-02-06 12:37:36,202 - INFO - <ipython-input-27-52667160933c>[:203]- industry creating done
+2018-02-06 12:37:36,698 - INFO - <ipython-input-27-52667160933c>[:239]- customer creating done
+2018-02-06 12:37:36,793 - INFO - <ipython-input-27-52667160933c>[:275]- financial report creating done
+2018-02-06 12:37:36,806 - INFO - <ipython-input-27-52667160933c>[:308]- financial subject creating done
+2018-02-06 12:37:37,132 - INFO - <ipython-input-27-52667160933c>[:319]- Total 4086 Triples
+2018-02-06 12:37:37,163 - INFO - <ipython-input-27-52667160933c>[:326]- output file... 
+End!
+2018-02-06 12:45:24,588 - ERROR - <ipython-input-28-4dd311a41bfa>[:76]- Raw data row No. 98 , "Cust_Id" info is incomplete
+2018-02-06 12:45:24,591 - ERROR - <ipython-input-28-4dd311a41bfa>[:76]- Raw data row No. 226 , "Cust_Id" info is incomplete
+2018-02-06 12:45:24,611 - INFO - <ipython-input-28-4dd311a41bfa>[:123]- Table is ready for calculation
+2018-02-06 12:45:24,665 - INFO - <ipython-input-28-4dd311a41bfa>[:154]- Max priority selecting check done
+2018-02-06 12:45:24,667 - INFO - <ipython-input-28-4dd311a41bfa>[:159]- liabilities ratio calculating done
+2018-02-06 12:45:24,983 - INFO - <ipython-input-28-4dd311a41bfa>[:205]- industry creating done
+2018-02-06 12:45:25,565 - INFO - <ipython-input-28-4dd311a41bfa>[:241]- customer creating done
+2018-02-06 12:45:25,722 - INFO - <ipython-input-28-4dd311a41bfa>[:277]- financial report creating done
+2018-02-06 12:45:25,740 - INFO - <ipython-input-28-4dd311a41bfa>[:310]- financial subject creating done
+2018-02-06 12:45:26,175 - INFO - <ipython-input-28-4dd311a41bfa>[:321]- Total 4086 Triples
+2018-02-06 12:45:26,234 - INFO - <ipython-input-28-4dd311a41bfa>[:328]- output file... 
+End!
+2018-02-06 12:46:29,493 - ERROR - <ipython-input-29-d4cc28cdc473>[:76]- Raw data row No. 98 , "Cust_Id" info is incomplete
+2018-02-06 12:46:29,496 - ERROR - <ipython-input-29-d4cc28cdc473>[:76]- Raw data row No. 226 , "Cust_Id" info is incomplete
+2018-02-06 12:46:29,579 - INFO - <ipython-input-29-d4cc28cdc473>[:124]- Table is ready for calculation
+2018-02-06 12:46:29,634 - INFO - <ipython-input-29-d4cc28cdc473>[:155]- Max priority selecting check done
+2018-02-06 12:46:29,635 - INFO - <ipython-input-29-d4cc28cdc473>[:160]- liabilities ratio calculating done
+2018-02-06 12:46:29,925 - INFO - <ipython-input-29-d4cc28cdc473>[:206]- industry creating done
+2018-02-06 12:46:30,626 - INFO - <ipython-input-29-d4cc28cdc473>[:242]- customer creating done
+2018-02-06 12:46:30,729 - INFO - <ipython-input-29-d4cc28cdc473>[:278]- financial report creating done
+2018-02-06 12:46:30,745 - INFO - <ipython-input-29-d4cc28cdc473>[:311]- financial subject creating done
+2018-02-06 12:46:31,117 - INFO - <ipython-input-29-d4cc28cdc473>[:322]- Total 4086 Triples
+2018-02-06 12:46:31,153 - INFO - <ipython-input-29-d4cc28cdc473>[:329]- output file... 
+End!
+2018-02-06 12:51:39,300 - INFO - <ipython-input-33-6c1f37cff3b7>[:119]- remove row 0
+Traceback (most recent call last):
+  File "<ipython-input-33-6c1f37cff3b7>", line 112, in <module>
+    raise DatapreproError('The data (tot_lia and tot_ass) splitting  from TD table failed at row %d'%i)
+DatapreproError: The data (tot_lia and tot_ass) splitting  from TD table failed at row 0
+2018-02-06 12:51:39,347 - INFO - <ipython-input-33-6c1f37cff3b7>[:152]- Max priority selecting check done
+2018-02-06 12:51:39,348 - INFO - <ipython-input-33-6c1f37cff3b7>[:157]- liabilities ratio calculating done
+2018-02-06 12:51:39,605 - INFO - <ipython-input-33-6c1f37cff3b7>[:203]- industry creating done
+2018-02-06 12:51:40,182 - INFO - <ipython-input-33-6c1f37cff3b7>[:239]- customer creating done
+2018-02-06 12:51:40,297 - INFO - <ipython-input-33-6c1f37cff3b7>[:275]- financial report creating done
+2018-02-06 12:51:40,313 - INFO - <ipython-input-33-6c1f37cff3b7>[:308]- financial subject creating done
+2018-02-06 12:51:40,606 - INFO - <ipython-input-33-6c1f37cff3b7>[:319]- Total 4087 Triples
+2018-02-06 12:51:40,637 - INFO - <ipython-input-33-6c1f37cff3b7>[:326]- output file... 
+End!
+2018-02-06 12:57:20,587 - INFO - <ipython-input-34-fb216ba66644>[:120]- remove row 0
+Traceback (most recent call last):
+  File "<ipython-input-34-fb216ba66644>", line 113, in <module>
+    raise DatapreproError('The data (tot_lia and tot_ass) splitting  from TD table failed at row %d'%i)
+DatapreproError: The data (tot_lia and tot_ass) splitting  from TD table failed at row 0
+2018-02-06 12:57:20,696 - INFO - <ipython-input-34-fb216ba66644>[:154]- Max priority selecting check done
+2018-02-06 12:57:20,697 - INFO - <ipython-input-34-fb216ba66644>[:159]- liabilities ratio calculating done
+2018-02-06 12:57:20,955 - INFO - <ipython-input-34-fb216ba66644>[:205]- industry creating done
+2018-02-06 12:57:21,567 - INFO - <ipython-input-34-fb216ba66644>[:241]- customer creating done
+2018-02-06 12:57:21,796 - INFO - <ipython-input-34-fb216ba66644>[:277]- financial report creating done
+2018-02-06 12:57:21,814 - INFO - <ipython-input-34-fb216ba66644>[:310]- financial subject creating done
+2018-02-06 12:57:22,191 - INFO - <ipython-input-34-fb216ba66644>[:321]- Total 4087 Triples
+2018-02-06 12:57:22,245 - INFO - <ipython-input-34-fb216ba66644>[:328]- output file... 
+End!
+2018-02-06 13:05:23,440 - INFO - <ipython-input-35-80f9470c9c31>[:120]- remove row 0
+Traceback (most recent call last):
+  File "<ipython-input-35-80f9470c9c31>", line 113, in <module>
+    raise DatapreproError('The data (tot_lia and tot_ass) splitting  from TD table failed at row %d'%i)
+DatapreproError: The data (tot_lia and tot_ass) splitting  from TD table failed at row 0
+2018-02-06 13:05:23,572 - INFO - <ipython-input-35-80f9470c9c31>[:149]- Max priority selecting check done
+2018-02-06 13:05:23,573 - INFO - <ipython-input-35-80f9470c9c31>[:154]- liabilities ratio calculating done
+2018-02-06 13:05:23,881 - INFO - <ipython-input-35-80f9470c9c31>[:200]- industry creating done
+2018-02-06 13:05:24,519 - INFO - <ipython-input-35-80f9470c9c31>[:236]- customer creating done
+2018-02-06 13:05:24,626 - INFO - <ipython-input-35-80f9470c9c31>[:272]- financial report creating done
+2018-02-06 13:05:24,656 - INFO - <ipython-input-35-80f9470c9c31>[:305]- financial subject creating done
+2018-02-06 13:05:25,140 - INFO - <ipython-input-35-80f9470c9c31>[:316]- Total 4087 Triples
+2018-02-06 13:05:25,203 - INFO - <ipython-input-35-80f9470c9c31>[:323]- output file... 
+End!
+2018-02-06 13:05:54,615 - INFO - <ipython-input-36-e8ab7f5621c7>[:120]- remove row 0
+Traceback (most recent call last):
+  File "<ipython-input-36-e8ab7f5621c7>", line 113, in <module>
+    raise DatapreproError('The data (tot_lia and tot_ass) splitting  from TD table failed at row %d'%i)
+DatapreproError: The data (tot_lia and tot_ass) splitting  from TD table failed at row 0
+2018-02-06 13:05:54,728 - INFO - <ipython-input-36-e8ab7f5621c7>[:149]- Max priority selecting check done
+2018-02-06 13:05:54,730 - INFO - <ipython-input-36-e8ab7f5621c7>[:154]- liabilities ratio calculating done
+2018-02-06 13:05:54,987 - INFO - <ipython-input-36-e8ab7f5621c7>[:200]- industry creating done
+2018-02-06 13:05:55,567 - INFO - <ipython-input-36-e8ab7f5621c7>[:236]- customer creating done
+2018-02-06 13:05:55,667 - INFO - <ipython-input-36-e8ab7f5621c7>[:272]- financial report creating done
+2018-02-06 13:05:55,680 - INFO - <ipython-input-36-e8ab7f5621c7>[:305]- financial subject creating done
+2018-02-06 13:05:55,973 - INFO - <ipython-input-36-e8ab7f5621c7>[:316]- Total 4087 Triples
+2018-02-06 13:05:56,005 - INFO - <ipython-input-36-e8ab7f5621c7>[:323]- output file... 
+End!
+2018-02-06 13:08:26,149 - INFO - <ipython-input-37-094a93d24c66>[:120]- remove row 0
+Traceback (most recent call last):
+  File "<ipython-input-37-094a93d24c66>", line 113, in <module>
+    raise DatapreproError('The data (tot_lia and tot_ass) splitting  from TD table failed at row %d'%i)
+DatapreproError: The data (tot_lia and tot_ass) splitting  from TD table failed at row 0
+2018-02-06 13:08:26,270 - INFO - <ipython-input-37-094a93d24c66>[:149]- Max priority selecting check done
+2018-02-06 13:08:26,272 - INFO - <ipython-input-37-094a93d24c66>[:154]- liabilities ratio calculating done
+2018-02-06 13:08:26,552 - INFO - <ipython-input-37-094a93d24c66>[:200]- industry creating done
+2018-02-06 13:08:27,106 - INFO - <ipython-input-37-094a93d24c66>[:236]- customer creating done
+2018-02-06 13:08:27,228 - INFO - <ipython-input-37-094a93d24c66>[:272]- financial report creating done
+2018-02-06 13:08:27,243 - INFO - <ipython-input-37-094a93d24c66>[:305]- financial subject creating done
+2018-02-06 13:08:27,599 - INFO - <ipython-input-37-094a93d24c66>[:316]- Total 4087 Triples
+2018-02-06 13:08:27,635 - INFO - <ipython-input-37-094a93d24c66>[:323]- output file... 
+End!
+2018-02-06 13:09:16,354 - INFO - <ipython-input-38-6d127fd538de>[:122]- Table is ready for calculation
+2018-02-06 13:09:16,404 - INFO - <ipython-input-38-6d127fd538de>[:148]- Max priority selecting check done
+2018-02-06 13:09:16,405 - INFO - <ipython-input-38-6d127fd538de>[:153]- liabilities ratio calculating done
+2018-02-06 13:09:16,692 - INFO - <ipython-input-38-6d127fd538de>[:199]- industry creating done
+2018-02-06 13:09:17,312 - INFO - <ipython-input-38-6d127fd538de>[:235]- customer creating done
+2018-02-06 13:09:17,408 - INFO - <ipython-input-38-6d127fd538de>[:271]- financial report creating done
+2018-02-06 13:09:17,422 - INFO - <ipython-input-38-6d127fd538de>[:304]- financial subject creating done
+2018-02-06 13:09:17,773 - INFO - <ipython-input-38-6d127fd538de>[:315]- Total 4107 Triples
+2018-02-06 13:09:17,812 - INFO - <ipython-input-38-6d127fd538de>[:322]- output file... 
+End!

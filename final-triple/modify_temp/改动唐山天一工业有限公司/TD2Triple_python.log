@@ -1,0 +1,22 @@
+2018-02-06 11:25:18,999 - INFO - <ipython-input-1-766df7e734a7>[:137]- Table is ready for calculation
+2018-02-06 11:25:19,052 - INFO - <ipython-input-1-766df7e734a7>[:168]- Max priority selecting check done
+2018-02-06 11:25:19,053 - INFO - <ipython-input-1-766df7e734a7>[:173]- liabilities ratio calculating done
+2018-02-06 11:25:19,298 - INFO - <ipython-input-1-766df7e734a7>[:219]- industry creating done
+2018-02-06 11:25:19,775 - INFO - <ipython-input-1-766df7e734a7>[:255]- customer creating done
+2018-02-06 11:25:19,872 - INFO - <ipython-input-1-766df7e734a7>[:291]- financial report creating done
+2018-02-06 11:25:19,884 - INFO - <ipython-input-1-766df7e734a7>[:324]- financial subject creating done
+2018-02-06 11:25:20,209 - INFO - <ipython-input-1-766df7e734a7>[:335]- Total 4107 Triples
+2018-02-06 11:25:20,242 - INFO - <ipython-input-1-766df7e734a7>[:342]- output file... 
+End!
+2018-02-06 11:26:08,225 - ERROR - <ipython-input-2-bc729d00c0ec>[:73]- the No. 98 row "Cust_Id" info is incomplete
+2018-02-06 11:26:08,228 - ERROR - <ipython-input-2-bc729d00c0ec>[:73]- the No. 226 row "Cust_Id" info is incomplete
+2018-02-06 11:26:08,242 - INFO - <ipython-input-2-bc729d00c0ec>[:137]- Table is ready for calculation
+2018-02-06 11:26:08,287 - INFO - <ipython-input-2-bc729d00c0ec>[:168]- Max priority selecting check done
+2018-02-06 11:26:08,288 - INFO - <ipython-input-2-bc729d00c0ec>[:173]- liabilities ratio calculating done
+2018-02-06 11:26:08,520 - INFO - <ipython-input-2-bc729d00c0ec>[:219]- industry creating done
+2018-02-06 11:26:09,045 - INFO - <ipython-input-2-bc729d00c0ec>[:255]- customer creating done
+2018-02-06 11:26:09,161 - INFO - <ipython-input-2-bc729d00c0ec>[:291]- financial report creating done
+2018-02-06 11:26:09,174 - INFO - <ipython-input-2-bc729d00c0ec>[:324]- financial subject creating done
+2018-02-06 11:26:09,526 - INFO - <ipython-input-2-bc729d00c0ec>[:335]- Total 4086 Triples
+2018-02-06 11:26:09,563 - INFO - <ipython-input-2-bc729d00c0ec>[:342]- output file... 
+End!
